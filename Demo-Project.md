@@ -22,7 +22,7 @@ __Face plates indicate the time in 5 min intervals and user connections__
 |![Image](images/Demo/clock-face.jpeg)  |  ![Image](images/Demo/bluetooth-device.jpeg)|
 
 <br/><br/>
-![Image](images/Demo/case-cad.jpeg)
+![Image](images/Demo/case-cad.png)
 *Case holds two Adafruits for users and timer.Square case has space at the bottom to hold battery pack*
 
 
