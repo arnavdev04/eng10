@@ -29,10 +29,16 @@ __Face plates indicate the time in 5 min intervals and user connections__
 ![Image](images/Demo/finished-design.jpeg)
 *Finished Design*
 
+<br/><br/>
 
+## Hardware:
+![Image](images/Demo/hardware-connection.jpeg)
+*The connections inside the device and in between the 2 modules*
 
-
-
+<br/><br/>
+![Image](images/Demo/device-inside.jpeg)
+*Inside the casing*
+<br/><br/>
 
 ## Demo Video:
 __Click on the image to watch the youtube video__
