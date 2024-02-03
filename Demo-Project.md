@@ -1,3 +1,6 @@
+![Image](images/Demo/demo-project-header.jpeg)
+---
+
 
 ## Demo Video:
 __Click on the image to watch the youtube video__
