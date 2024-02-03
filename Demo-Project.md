@@ -1,5 +1,33 @@
 ![Image](images/Demo/demo-project-header.jpeg)
 ---
+## The problem:
+  * Roommates often forget to complete their assigned chores in time leading to disorganized living spaces.
+  * Simple manual methods of tracking can be hard to manage.
+  * People can claim to have completed a task without doing it.
+  * Ineffective task management can lead to conflicts between roommates.
+
+## Our Solution:
+__AN AUTOMATED CHORE TRAKING SYSTEM__
+
+  * The device syncs with the user’s phone to keep track of when chores are completed.
+  * The device includes a timer to prevent users cheating the system and make sure they actually do the chores.
+  * User-friendly interface for easy implementation of task management system.
+  * Sensor detects when a cleaning implement has been picked up.
+
+## CAD Design:
+__Face plates indicate the time in 5 min intervals and user connections__
+The clock face                    |  The bluetooth device face           
+:--------------------------------:|:--------------------------------------:
+![](images/Demo/clock-face.jpeg)  |  ![](images/Demo/bluetooth-device.jpeg)
+
+
+
+![Albuquerque, New Mexico](images/Demo/case-cad.jpeg)
+*Case holds two Adafruits for users and timer.Square case has space at the bottom to hold battery pack*
+
+
+
+
 
 
 ## Demo Video:
@@ -11,5 +39,4 @@ __Click on the image to watch the youtube video__
 
 
 ---
-<br/><br/>  
-height="337.5" border="10"
+<br/><br/>
