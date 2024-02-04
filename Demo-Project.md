@@ -42,15 +42,6 @@ __Face plates indicate the time in 5 min intervals and user connections__
 *Inside the casing*
 <br/><br/>
 
-## C++ Code:
-```c
-#include <Arduino.h> // importing libraries
-#include <bluefruit.h>
-#include <Adafruit_CircuitPlayground.h>
-```
-
-
-<br/><br/>
 ## Python Code:
 ```python
 #include <Arduino.h> // importing libraries
