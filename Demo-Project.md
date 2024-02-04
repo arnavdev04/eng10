@@ -91,7 +91,8 @@ void startAdv(void){
   Bluefruit.Advertising.setFastTimeout(30); // connection timeout to prevent infinite loops
   Bluefruit.Advertising.start(0); 
 }
-
+```
+```c
 void sendData(int num, bool found) {
   Serial.println("sendata");
   Serial.println(num);
@@ -143,6 +144,8 @@ void sendData(int num, bool found) {
   }
   
 }
+```
+```c
 
 void connect_callback(uint16_t conn_handle){
   BLEConnection* connection = Bluefruit.Connection(conn_handle);
