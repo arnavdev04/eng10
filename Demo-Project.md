@@ -33,13 +33,27 @@ __Face plates indicate the time in 5 min intervals and user connections__
 
 ## Hardware:
 ![Image](images/Demo/hardware-connection.jpeg)
+
 *The connections inside the device and in between the 2 modules*
 
 <br/><br/>
 ![Image](images/Demo/device-inside.jpeg)
+
 *Inside the casing*
 <br/><br/>
 
+## C++ Code:
+```C++
+s = "Python syntax highlighting"
+print s
+```
+<br/><br/>
+## Python Code:
+```python
+s = "Python syntax highlighting"
+print s
+```
+<br/><br/>
 ## Demo Video:
 __Click on the image to watch the youtube video__
 
@@ -47,6 +61,3 @@ __Click on the image to watch the youtube video__
  <img src="http://img.youtube.com/vi/xfMjQpl58Fs/hqdefault.jpg" alt="Demo video" width="600" />
 </a>
 
-
----
-<br/><br/>
