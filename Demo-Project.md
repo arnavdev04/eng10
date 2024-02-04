@@ -43,7 +43,7 @@ __Face plates indicate the time in 5 min intervals and user connections__
 <br/><br/>
 
 ## C++ Code:
-```c++
+```c
 #include <Arduino.h> // importing libraries
 #include <bluefruit.h>
 #include <Adafruit_CircuitPlayground.h>
