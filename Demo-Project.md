@@ -47,51 +47,9 @@ __Face plates indicate the time in 5 min intervals and user connections__
 #include <Arduino.h> // importing libraries
 #include <bluefruit.h>
 #include <Adafruit_CircuitPlayground.h>
-
-
-BLEUart bleuart; // initializing a Bluetooth UART instance for the app to connect to
-
-char BTdevName[32] = {};// bringing the dveice name out of the scope of the specific function so we can access it later
-String BTdevStr;
-
-int numProfiles = 7;
-String profiles[7] = {" ", " ", "Sriharsha's S23 Ult", " ", " ", " ", " "}; // initializing an empty list to store known profiles
-
-int found;
-
-int comm[7][3] = {{0,0,1}, {0,1,0}, {0,1,1}, {1,0,0}, {1,0,1}, {1,1,0}, {1,1,1}};
-
-void setup(){
- 
-  
-  Serial.begin(9600); // initializing serial communication to monitor the output 
-  Bluefruit.begin(); // initializing the on board Bluetooth module
-  Bluefruit.setTxPower(4); // setting the Transmission power of the module 
-
-  Bluefruit.Periph.setConnectCallback(connect_callback); // getting some data(calling back) from the connected device i.e. in this case, the name
-  
-  bleuart.begin(); // starting the BT UART interface
-  CircuitPlayground.begin();
-
-  
-  startAdv(); // making the Bluetooth device discoverable and ready to pair
-}
-
-
-void startAdv(void){
-  Bluefruit.Advertising.addFlags(BLE_GAP_ADV_FLAGS_LE_ONLY_GENERAL_DISC_MODE); // setting flags so that the app knows what the device is
-  Bluefruit.Advertising.addTxPower(); 
-  
-  Bluefruit.Advertising.addService(bleuart); // setting the bluetooth module to a mode where it can connect to the app
-  
-  Bluefruit.ScanResponse.addName();
-
-  Bluefruit.Advertising.restartOnDisconnect(true); // refreshes the BT module when device disconnects
-  Bluefruit.Advertising.setInterval(32, 244); // refresh rate of the Bluetooth scan
-  Bluefruit.Advertising.setFastTimeout(30); // connection timeout to prevent infinite loops
-  Bluefruit.Advertising.start(0); 
-}
 ```
+
+
 <br/><br/>
 ## Python Code:
 ```python
