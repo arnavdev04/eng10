@@ -1,11 +1,7 @@
 # Engineering of The Week:
 ## [Quantum Computing](https://drive.google.com/file/d/17AMLZeEBhEG0fI-yZxxS1GhiWc0-cLRf/view?usp=drive_link)
 
-
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQTlILQGHb4k_h9hHXeCSOrOiIWdD0pEWYQT1BIPwuKbVuSO5IAvMG-d4v7MoVaTSmeAx6V-hbzcajV/pub?embedded=true" style="width: 60vw; height: 34vw;" frameborder="0"></iframe>
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQTlILQGHb4k_h9hHXeCSOrOiIWdD0pEWYQT1BIPwuKbVuSO5IAvMG-d4v7MoVaTSmeAx6V-hbzcajV/pub?embedded=true" frameborder="1" width="600" height="800"></iframe>
+<iframe src="https://drive.google.com/file/d/17AMLZeEBhEG0fI-yZxxS1GhiWc0-cLRf/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 
