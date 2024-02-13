@@ -4,7 +4,7 @@
 
 <embed src="eotw/eotw1.pdf" type="application/pdf">
 
-<object data="eotw/eotw1.pdf" type="application/pdf" width="100%" height="100%">
+<object data="eotw/eotw1.pdf" type="application/pdf" width="100%" height="200%">
 </object>
 
 
