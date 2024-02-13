@@ -3,16 +3,13 @@
 
 <iframe src="https://drive.google.com/file/d/17AMLZeEBhEG0fI-yZxxS1GhiWc0-cLRf/preview" width="640" height="480" allow="autoplay"></iframe>
 
+<iframe src="https://drive.google.com/file/d/17AMLZeEBhEG0fI-yZxxS1GhiWc0-cLRf/preview" frameborder="1" style="width: 60vw; height: 34vw;" allow="autoplay"></iframe>
+
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="1" style="width: 68vw; height: calc(68vw /1.4143);" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<br><br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="1" style="width: 32vw; height: calc(32vw /1.4143);" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="1" style="width: 32vw; height: calc(32vw /1.4143);" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="1" style="width: 32vw; height: calc(32vw /1.4143);" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="1" style="width: 32vw; height: calc(32vw /1.4143);" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="0" style="width: 60vw; height: 34vw;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
