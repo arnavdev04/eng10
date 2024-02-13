@@ -13,6 +13,6 @@
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="1" style="width: 850px; height: 638px;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="0" style="width: 60vw; height: 33.75vw;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="0" style="width: 60vw; height: 34vw;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
