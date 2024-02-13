@@ -18,4 +18,4 @@
 
 <br></br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpjSyeo4yHV_7ylOLtY6jjiJQ2levqvkTNH9hIAsR81hSae1ulpDF9w0DI3c-9w_HG80xTQuHX0IHS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="500" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
