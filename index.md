@@ -6,7 +6,7 @@ In the code where `[Project  ]` is mentioned, just change it to your project nam
 
 <br/><br/>
 ## [Project 1](https://arnavdev04.github.io/eng10/Project1.html)
-
+Hello!
 <br/><br/>
 ## [Project 2](https://arnavdev04.github.io/eng10/Project2.html)
 
