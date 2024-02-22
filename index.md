@@ -5,7 +5,7 @@
 In the code where `[Project  ]` is mentioned, just change it to your project name. It will be the hyperlinked text. In this example it is "Demo Project". Do not change the link. Here you will be able to give an introduction of your project. Try to limit it to 4-5 sentences. Do not worry just keep writing, the lines will automatically wrap around.
 
 <br/><br/>
-## [Project 1](https://arnavdev04.github.io/eng10/Progects.html)
+## [Project 1](https://arnavdev04.github.io/eng10/Projects.html)
 Hello!
 <br/><br/>
 ## [Project 2](https://arnavdev04.github.io/eng10/Project2.html)
