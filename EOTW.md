@@ -20,8 +20,9 @@ _Engineering of the Week_ is a dynamic class activity designed to enhance studen
 <iframe src="https://drive.google.com/file/d/1uYu00avdGwW0urAcqTOBPwHc9o4Q0rGy/preview" frameborder="1" style="width: 68vw; height: 33vw;" allow="autoplay"></iframe>
 <br/><br/> 
 
-## [Example Doc] (https\://docs.google.com/document/d/1ElTeBVgvPcJwPNU5uH0yKX7xGdgQf6-QmfqR1\_qFs0Q/edit?usp=sharing)
-<iframe src="https://drive.google.com/file/d/1ElTeBVgvPcJwPNU5uH0yKX7xGdgQf6-QmfqR1\_qFs0Q/preview" frameborder="1" style="width: 68vw; height: 33vw;" allow="autoplay"></iframe>
+
+## [Example Doc](https://docs.google.com/document/d/1ElTeBVgvPcJwPNU5uH0yKX7xGdgQf6-QmfqR1_qFs0Q/edit?usp=sharing)
+<iframe src="https://drive.google.com/document/d/1ElTeBVgvPcJwPNU5uH0yKX7xGdgQf6-QmfqR1_qFs0Q/preview" frameborder="1" style="width: 68vw; height: 33vw;" allow="autoplay"></iframe>
 <br/><br/> 
 
 
