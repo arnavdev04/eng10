@@ -1,7 +1,7 @@
 ![Image](/images/header.jpeg) 
 ---
 ## [About Professor](https://arnavdev04.github.io/eng10/Projects.html)
-![Image](/images/Dr_Katya with her students.png) 
+![Image](/images/Katya.png) 
 <br/><br/>
 
 ## [Demo Project](https://arnavdev04.github.io/eng10/Demo-Project.html)
