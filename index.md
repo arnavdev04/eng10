@@ -6,9 +6,11 @@ In the code where `[Project  ]` is mentioned, just change it to your project nam
 
 <br/><br/>
 ## [Projects](https://arnavdev04.github.io/eng10/Projects.html)
+This link will send you to some of our nice projects!
 <br/><br/>
 
 <br/><br/>
 ## [Engineering of the Week](https://arnavdev04.github.io/eng10/EOTW.html)
+
 <br/><br/>
 
