@@ -8,6 +8,7 @@ Dr. Ekaterina (Katya) Evdokimenko is an Instructor for several undergraduate and
 Furthermore, she has performed research in the area of Materials Science and Engineering for more than 10 years, has about 50 journal publications and conference proceedings, and more than 70 conference presentations. She has also served as a reviewer for more than 15 different engineering journals. 
 
 Dr. Katya has been doing rock climbing for about 25 years. :)​​​​​
+
 ![Image](/images/Climb3.JPG) 
 <br/><br/>
 
