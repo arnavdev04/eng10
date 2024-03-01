@@ -26,4 +26,4 @@ Engineering of the Week is a dynamic class activity designed to enhance students
 <br/><br/>
 
 ## [Library of Light](https://arnavdev04.github.io/eng10/Light.html)
-This link will send you to some of our nice lamps!
+This link will send you to our Library of Light Creations!
