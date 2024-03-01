@@ -19,10 +19,3 @@ _Engineering of the Week_ is a dynamic class activity designed to enhance studen
 ## [Artifical Worm Gut](https://drive.google.com/file/d/1uYu00avdGwW0urAcqTOBPwHc9o4Q0rGy/view?usp=sharing)
 <iframe src="https://drive.google.com/file/d/1uYu00avdGwW0urAcqTOBPwHc9o4Q0rGy/preview" frameborder="1" style="width: 68vw; height: 33vw;" allow="autoplay"></iframe>
 <br/><br/> 
-
-  
-
-
-
-
-
